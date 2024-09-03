@@ -1,9 +1,10 @@
+//This is the standard template which we will use for cses for multiple test cases
 #include <bits/stdc++.h>
 using namespace std;
 
 void Solve() 
 {
-  cout<<"222";
+  
 }
 int main(){
   ios_base::sync_with_stdio(0);
