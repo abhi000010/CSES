@@ -2,6 +2,9 @@
 using namespace std; 
 void Solve() 
 {
+ 
+ //tc->o(nlogn+mlogm),sc->o(n+m)
+ 
  int n,m,k;
  cin>>n>>m>>k;
  vector<int> desired_size(n);
