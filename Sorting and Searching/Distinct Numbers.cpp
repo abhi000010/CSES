@@ -3,6 +3,9 @@ using namespace std;
 #define ll long long 
 void Solve() 
 {
+  //we will be using set to store unique elements
+  //tc->o(nlogn),sc->o(n)
+  
   int n;
   cin>>n;
   //here you can't use unorderd_setbecause of collisions
